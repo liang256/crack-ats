@@ -1,0 +1,164 @@
+Développeur Logiciel (Backend)/Development Engineer (Backend)
+Plusgrade · Montreal, QC
+
+
+About the job
+English Version Below ***
+
+
+
+Les voyages vont bien au-delà de leur destination ; ils sont tissés de chaque souvenir que l'on crée en chemin. Notre engagement consiste à redéfinir l'avenir du voyage en collaborant avec plus de 200 compagnies aériennes, établissements hôteliers, sociétés de croisières, réseaux ferroviaires pour voyageurs et services financiers, dans le but de créer de nouvelles sources de revenus significatives grâce à des expériences client exceptionnelles. Fondés sur nos valeurs fondamentales d'ambition, d'innovation et de collaboration, nous sommes constamment poussés à repousser les limites, à surpasser les attentes et à exploiter le meilleur de chacun. Nous favorisons une culture qui repose sur la conviction que notre force réside dans notre unité, travaillant ensemble pour bâtir un avenir extraordinaire dans l'univers du voyage. Joignez-vous à nous pour transformer les voyages quotidiens en expériences véritablement extraordinaires.
+
+À PROPOS DU POSTE:
+
+Nous recherchons un développeur backend pour rejoindre notre équipe d'ingénierie logicielle de la plateforme de commerce de fidélité. L'équipe LCP est une équipe agile et pluridisciplinaire avec des développeurs backend concentrés sur notre plateforme de commerce de fidélité - une plateforme qui aide les programmes de fidélité à développer des applications personnalisées qui leur permettent d'engager leurs membres et de leur offrir la plus grande valeur pour leur fidélité au programme.
+
+Rejoignez une équipe incroyablement motivée et collaborative travaillant avec une grande variété de technologies avec une visibilité et une propriété de bout en bout de notre pile technologique. Nous sommes fiers de notre culture de travail, de partage et de célébration ensemble et créons un environnement de soutien où chacun peut être lui-même au travail.
+
+CE QUE VOUS FEREZ :
+
+Sous la responsabilité du chef d'équipe, vous rejoindrez une équipe multidisciplinaire où vous :
+
+ Développer des applications backend modernes, tout en gérant également les bases de code existantes
+ Contribuer au développement de nouveaux produits pour des clients très stratégiques, avec certains des plus grands API dans l'espace de la fidélité
+ Partager la responsabilité de la santé technique de votre équipe : architecture, meilleures pratiques, fiabilité, sécurité, etc
+ Souhaiter toujours améliorer à la fois l'expérience des développeurs et des utilisateurs grâce à une conception réfléchie, des tests rigoureux et une documentation claire
+ Collaborer avec les chefs de projet, les gestionnaires de relation, les designers de produits, les analystes et d'autres parties prenantes
+ Jouer un rôle important en nous aidant à fournir des produits de haute qualité à nos partenaires et clients
+ Nos équipes possèdent le code écrit du début à la fin. Cela comprend non seulement l'écriture de bon code, mais aussi le fait de s'assurer que le code est bien testé, scalable et que nous promouvons constamment les meilleures pratiques d'ingénierie
+ Nous chérissons la croissance de nos membres d'équipe, et nous aimerions que vous trouviez votre propre chemin pour continuer à grandir et à ajouter à vos compétences en tant que partie intégrante du travail ici. Cela signifie que bien que nous vous encourageons et vous permettront de grandir, vous devriez avoir la volonté d'apprendre
+
+
+
+VOUS ÊTES QUELQU'UN AVEC :
+
+ Expérience dans la construction d'applications backend
+ Désir de développer vos compétences à tous les niveaux de la pile technique
+ Croyance en l'importance du travail d'équipe, de la coopération et de la communication
+
+
+
+NOTRE STACK TECHNOLOGIQUE :
+
+ Python
+ CouchDB, PostgreSQL
+ Docker, Kubernetes
+ AWS
+ GitLab
+
+
+
+CE QUE VOUS AIMEREZ CHEZ NOUS:
+
+🏦 REER de contrepartie
+
+🏥 Plans de santé complets
+
+📅 Programme de congés payés flexible
+
+✈️ Allocation d’expérience de voyage
+
+🧘 Crédit annuel pour bien-être
+
+🥗 Événements d'équipe et déjeuners mensuels
+
+💻 Allocation pour des fournitures de bureau / transport
+
+🌅 Programme de travail à distance
+
+🍼 Programme de prime de congé parental
+
+🌍 Passeport pour l'aventure
+
+NOTRE PROCESSUS:
+
+Plusgrade est un employeur offrant des chances égales et s'engage à fournir un processus de recrutement accessible. Nous accueillons les candidatures de toutes les personnes qualifiées et nous sommes engagés à offrir des opportunités d'emploi égales, quel que soit l'identité ou l'expression de genre, la race, l'origine ethnique, la croyance, le lieu d'origine, l'âge, le sexe, l'état civil, le handicap physique ou mental, l'orientation sexuelle et toute autre catégorie protégée par la loi. Sur demande, nous fournirons un hébergement pour les candidats handicapés.
+
+Nous croyons en la diversité et l'inclusivité, c'est pourquoi notre processus d'entrevue est conçu pour offrir une expérience de candidat positive et garantir que chaque candidat est évalué de manière égale. Toutes les candidatures seront examinées par notre équipe de talents et le ou les candidats retenus passeront par le processus de recrutement suivant:
+
+ Entrevue téléphonique avec le recruteur
+ Entrevue avec le responsable de l'embauche
+ Test pratique à domicile ou exercice de codage à distance (le cas échéant)
+ Entrevue en équipe
+
+
+
+Tous les candidats recevront des commentaires, qu'ils réussissent ou non toutes les étapes de notre processus d'entrevue. Toutes vos informations seront confidentielles.
+
+Travel is not just about the destination; it's about every memory made along the way. We are dedicated to shaping the future of travel by partnering with 200+ airline, hospitality, cruise, passenger rail, and financial services companies to create new, meaningful revenue streams through incredible customer experiences. Rooted in our core values of being ambitious, innovative, and collaborative, we are driven to continuously raise the bar, exceed expectations, and bring out the best in everyone, fostering a culture where we believe we are better together, working towards an extraordinary future in travel. Come help us transform everyday travel into extraordinary experiences.
+
+ABOUT THE ROLE:
+
+We are looking for a Backend Development Engineer to join our Loyalty Commerce Platform Software Engineering team. The LCP Team is a cross-functional, Agile team with backend engineers focused on our Loyalty Commerce Platform — a platform that helps loyalty programs develop custom applications that allow them to engage their members and give them the most value for their program loyalty.
+
+Join an incredibly motivated and collaborative team working across a breadth of technologies with end-to-end visibility and ownership of our tech stack. We take pride in our culture of working, sharing and celebrating together and create a supportive environment where everyone can be their true self at work.
+
+WHAT YOU WILL BE DOING:
+
+Reporting to the Team Lead, you will join a multidisciplinary team where you will:
+
+ Develop modern backend applications, while also managing the existing codebases
+ Assist with the development of new products for very strategic clients, with some of the largest API’s in the loyalty space
+ Share responsibility for your team’s technical health: architecture, best practices, reliability, security, etc
+ Always want to improve both the developer and user experience through thoughtful design, rigorous testing, and clear documentation
+ Collaborate with project managers, relationship managers, product designers, analysts and other stakeholders
+ Play an important role in helping us to deliver high-quality products to our partners and customers
+ Our teams own the written code from beginning to end. This includes not only writing great code, but also making sure that the code is well tested, scalable and that we constantly promote engineering best practices
+ We cherish the growth of our team members, and we’d like you to find your own way to continue to grow and add to your skill sets as part of the work here. This means that while we’ll enable and encourage you to grow, you should have the drive to learn
+
+
+
+YOU ARE SOMEONE WITH:
+
+ Experience building backend applications
+ Desire to develop your skills across all levels of the technical stack
+ Belief in the importance of teamwork, cooperation, and communication
+
+
+
+OUR TECH STACK: 
+
+ Python
+ CouchDB, PostgreSQL
+ Docker, Kubernetes
+ AWS
+ GitLab
+
+
+
+WHAT YOU’LL LOVE ABOUT US:
+
+🏦 RRSP/401(k) Matching
+
+🏥 Comprehensive Health Plans
+
+📅 Flexible Paid Time Off
+
+✈️ Travel Experience Credit
+
+🧘 Annual Wellness Credit
+
+🥗 Team Events and Monthly Lunches
+
+💻 Home Office/Commuter Credit
+
+🌅 Work From Anywhere Program
+
+🍼 Parental Leave Top Up
+
+🌍 Adventure Pass
+
+OUR PROCESS:
+
+Plusgrade is an equal-opportunity employer and is committed to providing an accessible recruitment process. We welcome applications from all qualified individuals and are committed to equal employment opportunities regardless of gender identity or expression, race, ethnic origin, creed, place of origin, age, sex, marital status, physical or mental disability, sexual orientation, and any other category protected by law. Upon request, we will provide accommodation for applicants with disabilities.
+
+We believe in diversity and inclusivity and that is why our interview process is designed for a positive candidate experience and to ensure every candidate is evaluated equally. All applications will be reviewed by our Talent Team and the successful candidate(s) will go through the following recruitment process:
+
+ Recruiter Phone Interview
+ Hiring Manager Interview
+ Take-home Assessment or remote coding exercise (if applicable)
+ Team Interview
+
+
+
+All candidates will be provided with feedback regardless if they pass or didn’t pass any of our interview stages. All your information will be kept confidential.
