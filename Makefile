@@ -1,3 +1,5 @@
+process: parse generate pdf
+
 parse:
 	python parse_jds.py
 
