@@ -24,8 +24,8 @@ def main():
     parser.add_argument(
         "-f", "--force", action="store_true", help="Regenerate all existing PDFs"
     )
-    parser.add_argument("-a", "--all", help="Convert all source files")
-    parser.add_argument("file_path", help="Path to the input file")
+    parser.add_argument("-a", "--all", action='store_true', help="Convert all source files")
+    parser.add_argument("file_path", nargs="?", help="Path to the input file")
     args = parser.parse_args()
 
     # iterate over the directories in the generated_resumes directory
@@ -42,9 +42,12 @@ def main():
         return
 
     # takes a single file after command as input
-    input_file = args.file_path
-    output_file = input_file.replace(".txt", ".pdf")
-    convert_to_pdf(input_file, output_file)
+    if args.file_path:
+        input_file = args.file_path
+        output_file = input_file.replace(".txt", ".pdf")
+        convert_to_pdf(input_file, output_file)
+    else:
+        print("No input file specified.")
 
 
 if __name__ == "__main__":
