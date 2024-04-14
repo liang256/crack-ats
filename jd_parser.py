@@ -28,7 +28,11 @@ class JDParser(AbstractJDParser):
 
     def parse(self, jd_str: str):
         json_key_words = self.ask_gpt(jd_str)
-        return json.loads(json_key_words)
+        try:
+            return json.loads(json_key_words)
+        except json.decoder.JSONDecodeError:
+            json_key_words += "}"
+            return json.loads(json_key_words)
 
     def ask_gpt(self, content: str):
         current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
