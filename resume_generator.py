@@ -10,10 +10,11 @@ class AbstractResumeGenerator:
 
 INSTRUCTIONS = """
 You will be provided with a dictionary of required skills extracted from a job description and a dictionary of the source experience. Your task is to generate a resume based on the given skills and experience. 
-- paragraph: base info, working experience, education, skills
+- session order: base info, working experience, education, projects, skills
 - You should create strong experiences that matched to the required skills. 
-- Rewrite some experience to enhance the strength if you think needed
-- use bullet points
+- Rewrite some experience to enhance the strength if you think needed.
+- Remove some content if you think it is not related to required skills. Ensure it is not relevant to the job before removing.
+- use bullet points. Except for '-' for bullet points, don't use other symbols.
 - at least 80 percent of required skills be used in the resume. 
 - at least 2048 characters totally. 
 - Pick the best title for each working experience
