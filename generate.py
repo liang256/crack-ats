@@ -4,7 +4,7 @@ import json
 import services
 import resume_generator
 
-GENERATOR = resume_generator.ResumeGenerator()
+GENERATOR = resume_generator.GPT4ResumeGenerator()
 
 with open("experience.json", "r") as file:
     EXPERIENCE = json.load(file)
