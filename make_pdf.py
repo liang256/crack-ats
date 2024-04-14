@@ -24,7 +24,9 @@ def main():
     parser.add_argument(
         "-f", "--force", action="store_true", help="Regenerate all existing PDFs"
     )
-    parser.add_argument("-a", "--all", action='store_true', help="Convert all source files")
+    parser.add_argument(
+        "-a", "--all", action="store_true", help="Convert all source files"
+    )
     parser.add_argument("file_path", nargs="?", help="Path to the input file")
     args = parser.parse_args()
 
