@@ -1,0 +1,53 @@
+{
+    "personal_info": {
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "phone": "(+1)123-456-7890",
+      "linkedin": "https://www.linkedin.com/in/johndoe/",
+      "github": "https://www.github.com/johndoe"
+    },
+    "education": [
+      {
+        "degree": "Master of Science in Computer Science",
+        "institution": "University of Toronto",
+        "location": "Ontario, Canada",
+        "dates": "Sep 2019 - Jun 2020",
+        "grade": "GPA 3.85",
+        "description": [
+          "Relevant coursework: Data Structures and Algorithms, Machine Learning, Computer Graphics.",
+          "Thesis: 'A Survey of Deep Learning Techniques for Image Classification'."
+        ]
+      }
+    ],
+    "work_experience": [
+      {
+        "title": ["Software Developer"],
+        "company": "Google",
+        "type": "full-time",
+        "location": "Ontario, Canada",
+        "dates": "Dec 2022 - Present",
+        "responsibilities": [
+          "Developed and maintained software applications for Google.",
+          "Collaborated with team members to design and implement new features.",
+          "Participated in code reviews to ensure code quality."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Chat Application",
+        "description": [
+          "Developed a chat application using Go and WebSockets."
+        ],
+        "technologies": ["Go", "WebSockets"],
+        "link": "https://github.com/johndoe/chatapp"
+      }
+    ],
+    "skills": [
+      "Software Development",
+      "Problem Solving",
+      "C (Programming Language)",
+      "Go (Programming Language)"
+    ]
+}
+  
