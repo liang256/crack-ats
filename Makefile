@@ -7,7 +7,7 @@ generate:
 	python generate.py
 
 pdf:
-	python make_pdf.py
+	python make_pdf.py -a
 
 black:
 	black -l 86 $$(find * -name '*.py')
