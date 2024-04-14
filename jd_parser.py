@@ -22,6 +22,13 @@ class AbstractJDParser:
         raise NotImplementedError
 
 
+INSTRUCTIONS = """
+You will be provided with a text of job description, and your task is to extract a list of hard skill" keywords and their frequency from it.
+The keywords should be sorted by word frequency DESC.
+The output is JSON. example output: {"skill":highest_freq,"skill":second_freq"}
+"""
+
+
 class JDParser(AbstractJDParser):
     def __init__(self) -> None:
         self.client = openai_client.get_client()
@@ -42,7 +49,7 @@ class JDParser(AbstractJDParser):
             messages=[
                 {
                     "role": "system",
-                    "content": 'You will be provided with a text of job description, and your task is to extract a list of hard skill" keywords and their frequency from it. The keywords should be sorted by word frequency. The output is JSON. example output: {"skill":freq,"skill":freq"}',
+                    "content": INSTRUCTIONS,
                 },
                 message,
             ],
