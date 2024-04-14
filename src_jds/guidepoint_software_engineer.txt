@@ -1,0 +1,72 @@
+Software Engineer (PHP)
+Guidepoint · Toronto, ON · Reposted 2 weeks ago · Over 100 applicants
+HybridMatches your job preferences, workplace type is Hybrid.  Full-timeMatches your job preferences, job type is Full-time.  Mid-Senior level
+
+About the job
+About Guidepoint:
+
+Guidepoint is a leading research enablement platform designed to advance understanding and empower our clients’ decision-making process. Powered by innovative technology, real-time data, and hard-to-source expertise, we help our clients to turn answers into action.
+
+Backed by a network of nearly 1.5 million experts and Guidepoint’s 1,300 employees worldwide, we inform leading organizations’ research by delivering on-demand intelligence and research on request. With Guidepoint, companies and investors can better navigate the abundance of information available today, making it both more useful and more powerful.
+
+At Guidepoint, our success relies on the diversity of our employees, advisors, and client base, which allows us to create connections that offer a wealth of perspectives. We are committed to upholding policies that contribute to an equitable and welcoming environment for our community, regardless of background, identity, or experience.
+
+On-demand intelligence and research on request offerings provide the critical context necessary to take the overabundance of available information and make it more useful and more powerful. Backed by a network of over one million experts our clients have access to curated data, direct consultations, and moderated content, letting top companies and investors rapidly turn answers into action.
+
+Department Overview:
+
+Technology influences everything we do at Guidepoint. Our engineering team plays a vital role in building the powerful technology that allows us to deliver knowledge to our clients faster and more efficiently. The teams contributions enhance the way we serve our clients every day. Team members address complex challenges with optimal solutions, working toward their goal of continuous improvement.
+
+The team practices a flat management structure, so employees at all levels feel they have a voice, and their contributions are valued. This is a rapidly growing team with ample opportunities for professional growth, so you can expand your skillset, take on new challenges and make a real impact.
+
+As a Software Engineer (PHP), you’ll work with a team of engineers through challenging development projects. Come join a highly collaborative team of skilled engineers with a passion for quality. 
+
+This position can be hybrid in the Toronto area
+
+Responsibilities:
+
+Optimizing monolithic legacy codebases and newer repositories using PHP(Symfony) 
+Work in an agile environment with Product Managers in completing user stories and converting complex business rules/workflows from User Story requirements into bespoke Sales Force type CRM applications
+Integrate and design highly scalable/transaction heavy API based applications such as Restful APIs and designing JSON payloads
+Collaborate with full-stack (Front-end/Back-end) team members with projects 
+Cooperate with QA and Application Support teams to triage bugs
+Work with large database schemas that would include working with hundreds of tables with millions of rows, stored procedures, views and indexes. 
+Write Unit tests and Documentation 
+
+
+Minimum Technical Qualifications:
+
+4 years' experience with OOP 
+4 years' experience with PHP 
+4 years' experience with SQL 
+2 years' experience with REST API
+2 years' experience with Symfony/Frameworks
+2 years' experience with Redis/Caching
+4 years' experience with Linux
+5 years' experience with Git 
+
+
+Preferred Technical Qualifications:
+
+2 years' experience with agile, scrum and Atlassian 
+
+
+Required Soft Skills:
+
+Effective communication skills to explain ideas and processes to others on your team and other departments. 
+Ownership over the projects you are working on and be accountable to others on your team. 
+Strong problem solving and analytical skills to resolve issues quickly and effectively.
+Ability to collaborate well with other departments such as product management, QA, DevOps, and IT in order to meet strategic goals.
+Be a self-starter who has the drive to see projects completed.
+Be able to think outside the box when approaching challenges and product development. 
+
+
+You will also be eligible for the following benefits:
+
+Paid Time Off
+Comprehensive benefits plan
+Company RRSP Match
+Development opportunities through the LinkedIn Learning platform
+
+
+Guidepoint is an equal opportunity employer and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.

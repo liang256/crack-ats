@@ -1,0 +1,100 @@
+BC, Senior Houdini TD - Expression of Interest
+Zoic Studios · Vancouver, BC · 4 months ago · 25 applicants
+RemoteMatches your job preferences, workplace type is Remote.  Full-timeMatches your job preferences, job type is Full-time.  Mid-Senior level
+201-500 employees · Movies, Videos, and Sound
+2 school alumni work here
+See how you compare to 22 applicants. Reactivate Premium
+
+Apply
+
+Save
+Save BC, Senior Houdini TD - Expression of Interest at Zoic Studios
+Share
+Show more options
+BC, Senior Houdini TD - Expression of Interest
+Zoic Studios Vancouver, BC Remote
+
+Apply
+
+Save
+Save BC, Senior Houdini TD - Expression of Interest at Zoic Studios
+Show more options
+About the job
+Senior Houdini TD - Expression of Interest
+
+This posting is an opportunity to submit your resume for future consideration; this is not a role that is open at this time. We anticipate this role may be open in the future, but we are not actively hiring for the position. If you would like to be considered for this potential role, please submit your resume. If the role becomes available, you may receive an email or call from a recruiter.
+
+The Ideal candidate will reside in British Columbia, Canada (some US candidates may be considered)
+
+About Zoic
+
+Zoic Studios is a Visual Effects company that specializes in high end visual effects for television, film, and advertising. Our mantra is Visual Evolution - we focus on every part of the process, from the final picture to the pipeline used to create them.
+
+Are you looking for your next creative and technical challenge? Come join our team!
+
+Why Join Zoic?
+
+ We are an Artist owned and operated VFX studio
+ We love what we do and always stay curious about new technology and techniques
+ We respect work/life balance in a hectic industry
+ We work with a team from all walks of life and backgrounds
+
+Project Overview
+
+Our Vancouver, BC location is interested in hearing from Senior Houdini TD's for future openings.
+
+Zoic is looking for an experienced Senior Houdini TD to assist in the overall efficiency of the Houdini production pipeline across departments. FX, Lighting, Environments, and other departments as we move more work into the Houdini pipeline. The position reports to the Studio Lead TD, ensuring that new workflows and tools developed follow Zoic’s programming standards and requirements.
+
+The Senior Houdini TD’s role includes, but will not be limited to, optimizing Artists’ Houdini scenes and ensure the IO of data between departments is efficient via tools or workflow recommendations. You will investigate and solve complex puzzles, keeping in mind the impact on the production process and pipeline overall.
+
+Overall, the role will support the management and development of tools and workflows that help digital artists with their daily use of both third party and in-house software and systems. The role requires strong technical and communication skills, between technical and non-technical personnel, as well as a firm understanding of software design, graphics, and production workflow.
+
+Duties And Responsibilities
+
+ Work with and take direction from Studio Technical Supervisor, Department Supervisors, Pipeline Managers, and Senior TDs as well as working with artists to create support & maintain tools to be integrated into Zoic’s existing pipeline
+ Utilize Python and PySide for tool creation and support
+ Work with artists to troubleshoot and fix problems
+ Update and maintain tools, techniques and work flows as required
+ Develop digital assets (HDAs) per department needs
+ Discuss and design solutions shots and sequences which fit within tight computation/storage/time limitations while still achieving the desired creative goals of VFX Supervisors and Creative Directors
+ If needed research and optimize artists’ scenes from Houdini and Mantra to simulate and render successfully within allotted time frame and machine resources, such as such as storage, RAM, and clock speed, to maximize efficiency on the farm
+ Debug and repair problematic scenes from Houdini and Mantra/Vray related to effects, simulation, procedural modeling, lighting, rendering, and other disciplines
+ Provide troubleshooting and technical solutions for day-to-day Houdini production problems
+ Work closely with Lighters and Compositors to ensure that all generated FX elements integrate seamlessly in downstream departments
+ Utilize currently available proprietary tools to solve FX and pipeline issues and on occasion develop new small-scale tools to address project or FX/Houdini department issues
+ Collaborate with Pipeline department on any required large-scale tools development
+ Stay up-to-date on latest proprietary pipeline tools and workflows from all office locations and regularly share information on these new developments with FX artists
+
+Qualifications, Skills & Software Required
+
+ 4+ years of work experience as a FX or Houdini TD or in a position with similar responsibilities
+ Proficiency in Python
+ Proficiency with Houdini
+ Experience debugging other users’ scene files and renders
+ Strong problem-solving skills and attention to detail
+ Excellent written and verbal communication skills
+ Ability to troubleshoot and work independently on projects without supervision
+ Experience with user interface development
+ Past pipeline development experience a plus
+ Solid understanding of Object-Oriented Programming and Design
+ Experience with Version Control Systems
+ Some experience with Qt. Other UI framework experience a plus
+ Knowledge of Python scripting in Houdini, Nuke, and Maya
+ C/C++, C#, web development, SQL experience a plus
+ Past experience with Shotgun, RV, Cinema4D a plus
+ Linux experience a plus. Bash, file IO, process lifecycle
+ Able to communicate clearly with the various Zoic departments and locations
+ Some experience using Maya, V-Ray, Nuke, Bifrost, Yeti, or Substance Painter a plus
+ Some experience using render queuing software a plus
+ Basic Python, VEX, HScript, and HDA scripting a plus
+
+Additional information:
+
+ The Ideal candidate will reside in British Columbia, Canada. This is a remote (work from home) position
+ Pay Range: $50 - $65 (The actual base salary offered will depend on a variety of factors, including without limitation, the qualifications of the individual applicant for the position, years of relevant experience, level of education attained, certifications or other professional licenses held, and if applicable, the location of the position)
+ Zoic does not cover relocation costs
+ All remote positions require the candidate to have a reliable internet connection via ethernet and work on Pacific Standard Time
+ This job description contains the basic requirements for the position and is NOT intended to be a complete list of responsibilities; other duties may be assigned
+ Due to the sheer volume of applications we receive, we regret that only those selected to interview will be contacted
+
+Powered by JazzHR

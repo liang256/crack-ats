@@ -1,0 +1,41 @@
+Pipeline TD (Mid Level)
+Luma Pictures · Vancouver, BC · 2 months ago · 82 applicants
+CA$90K/yr - CA$125K/yr  RemoteMatches your job preferences, workplace type is Remote.  Full-timeMatches your job preferences, job type is Full-time.
+201-500 employees · Entertainment Providers
+1 school alum works here
+
+About the job
+Luma is seeking a skilled python developer to collaborate with our production department, providing technical support and developing tools to enhance workflows.
+
+This role requires working in the Pacific West Coast time zone.
+
+You Can
+
+Mid level Python Experience
+Solid understanding of VFX workflows
+Development experience in at least 2 of the following: Nuke, Katana, Houdini
+Work closely with stakeholders and provide technical support to production
+
+
+You Have
+
+At least a minimum of 3+ years industry experience
+Previous experience with automation tools a strong plus
+Previous experience with FTrack would be beneficial but not critical
+In-depth knowledge of PyQT or PySide
+Good UI design sense
+Experience using databases
+Expert problem-solving and troubleshooting skills
+Solid communication skills
+Exceptional time management skills
+
+
+Pluses
+
+Experience with the following:
+Linux
+C/C++
+Web development
+
+
+Come as you are. Luma is a committed equal opportunity employer.
