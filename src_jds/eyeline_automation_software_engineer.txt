@@ -1,0 +1,35 @@
+Automation Software Engineer
+VancouverEyeline Studios – Tech Development /Regular /Hybrid
+Eyeline Studios
+At Eyeline, Scanline VFX's virtual production division, we want to provide you with a solid foundation where you can be a part of an innovative team of brilliant researchers, developers and virtual storytellers. Learn more.
+
+As an Automation Software Engineer, you will provide the team with a road map for how software systems can be used to orchestrate events within a VFX pipeline. You will leverage your extensive knowledge of distributed systems, task schedulers, and render queues to build sophisticated automation workflows. The ideal candidate is equally comfortable spinning up services in docker containers and writing integration code in DCC applications, and has acquired a keen sense for where to use open source and off-the-shelf tools and where to augment with bespoke development.
+Key Responsibilities
+Architect, design, build and solve complex, systematic problems in the domain of automation workflows
+Gather requirements across large collaboration efforts that span multiple departments and/or disciplines
+Write technical briefs and user documentation
+Partner with software development leadership and pipeline team to identify and schedule tasks
+Minimum Qualifications
+Expert in Python development
+Experience designing complex and reusable automation workflows spanning multiple processes and DCC's (Maya, Houdini, Nuke)
+Hands on experience with orchestration and stream processing frameworks such as Beam, Airflow, Conductor, Metaflow, Spark, Flink, Kafka, and Celery.
+Knowledge of SQL and ability to author schemas
+Preferred Qualifications
+Experience with sequence-based workflows, such as Solaris and Katana
+Familiarity with using Kubernetes to deploy services
+Strong communicator
+
+
+$110,000 - $150,000 a year
+This salary range is specific to applicants applying to our position in Vancouver, BC. To determine your base salary, we consider your qualifications, skills, and experience. These considerations can cause your compensation to vary outside of this range and will also be dependent on your location
+
+About Us
+Scanline VFX is an award-winning leader in the visual effects industry with 7 studios worldwide, including London, Los Angeles, Montreal, Munich, Seoul, Stuttgart, and Vancouver. Since our beginning in 1989, we strive to set the highest standard of quality in everything we do. Through innovation, we generate solutions for our clients and raise the bar — both within our workplace and throughout our industry.
+
+We look for explorers, people who are willing to go to new places and are open to testing, learning and iterating as they go. We believe great ideas come from everyone, so we actively encourage team members to ask questions and present their ideas.
+
+Powered by Netflix
+Netflix’s investment in our pipeline, infrastructure, and workforce allows us to continue to push the boundaries of what is possible in visual effects. In addition to working on projects for Netflix, we continue to work with a variety of long-standing and new clients.
+
+Come as you are
+We are committed to ensuring fair and equal treatment of your application. When you apply for a role with us, you will receive consideration based solely on your qualifications.

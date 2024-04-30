@@ -1,0 +1,43 @@
+TD Generalist
+Montreal, QC, Canada
+Contract
+Company Description
+Technicolor Creative Studios is the division with Technicolor, which contains Technicolor’s world-leading Visual effects and Animation brands such as MPC, The Mill, and Mikros.
+
+Technicolor’s brands have worked on the spectacular scenes and tiny details that make movies, advertising campaigns and Animation movies genuinely mind-blowing. We’re the people behind the effects in countless blockbuster films like The Lion King, The SpongeBob Movie: Sponge on the Run and advertising campaigns for clients such as Samsung, Audi, Nike and Apple. We are continually looking for the best talent globally, enthusiastic people who come in every day to be a part of some of the industry’s best work. 
+
+Job Description
+Under the supervision of the Head / associates heads of TDs and the TD department manager, the TD Generalist contributes to the design, development, optimization, and maintenance of the pipeline and production tools. The BSL (Baseline) Core team focuses on the general framework of tools developed by the TDs.
+
+As a TD Generalist, you will be able to solve complex bugs and work on BSL / show features requests. You will code / contribute to Shows and BSL with the Swat TD team, on oversight and coordination.
+
+The TD is part of the global TD team and as in any teamwork, may be required to assist teammates on other tasks than those expected of the position. Also, in contact with the software / RnD team, this TD  participates in the collaboration and communication between these 2 teams.
+
+Responsibilities 
+
+Deliver a high level of quality in the tools while respecting deadlines 
+Provide creative ideas and solutions to improve visual and technical quality 
+Develop tools and procedures to support the creative process 
+Understand the visual requirements for the film, and design procedures, techniques and tools that will enable these to be met 
+Ensure the maintenance and improvement of the Mikros Animation 'Tools Box' of the Animation department 
+Provide the necessary assistance to guarantee the efficiency of the data flow 
+Work according to Mikros Animation coding style 
+Liaise with the software team to ensure compliance with internal practices 
+Ensure the follow-up and the relevance of the creation and update of the technical documentation of the developed tools 
+Test and validate new versions of pre-existing tools, both interactive ones and in an active production environment 
+Qualifications
+Advanced knowledge in python coding language
+Excellent Python & PyQt/PySide, C++ / CMake skills, familiarity with a Ray Tracing rendering engine (Arnold, ...) and 3D (Maya, Katana) software
+Previous experience as a TD on animated feature film, animated television series and/or VFX feature film projects 
+Thorough understanding of Animation, Character and Rig designs 
+Advanced level of understanding of 3D packages, animation technologies and principles 
+Ability to code review and troubleshoot problems as they arise 
+Ability to quickly understand the use of commercially available and proprietary software tools 
+Ability to communicate in both a technical and artistic manner with various personality types 
+Ability to work collaboratively and share knowledge, while respecting deadlines and priorities.
+Bachelor's degree or equivalent in Computer Science / Engineering or relevant field
+Experience in shader or procedural programming (OSL) is a plus
+Familiarity with Agile scrum methodology
+Knowledge of Shotgun and Shotgun Toolkit Tank API is a plus
+Team player and problem-solver
+Strong written and verbal English language skills. French is a plus.
