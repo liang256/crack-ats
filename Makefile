@@ -11,3 +11,11 @@ pdf:
 
 black:
 	black -l 86 $$(find * -name '*.py')
+
+.PHONY: cl
+
+cl:
+	python generate_cover_letter.py $(filter-out $@,$(MAKECMDGOALS))
+
+%:
+	@:
