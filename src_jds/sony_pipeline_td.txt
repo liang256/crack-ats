@@ -1,0 +1,36 @@
+Pipeline TD
+Sony Pictures Imageworks - Vancouver, BC
+Sony Pictures Imageworks is located on the unceded traditional territory of the Musqueam, Squamish, and Tsleil-Waututh First Nations. We are committed to respecting traditional lands, and working with communities towards reconciliation.
+
+Sony Pictures Imageworks Canada Inc.
+725 Granville Street, 5th Floor
+Vancouver, British Columbia, Canada, V7K 1Y4
+
+Project based, Full Time
+
+Language in work environment - English
+
+Benefits per company policy: include healthcare, tuition reimbursement, RRSP's, Sick and Vacation leave, standard increases as applicable
+
+Sony Imageworks Vancouver is seeking Pipeline TDs!
+
+Creates, develops and refines all technical aspects of the Maya animation production pipeline. This entails developing and supporting procedures and tools to allow for a streamlined and efficient animation pipeline consisting of character rigging, character animation, simulation, props, layout, cameras, plates, geometry conversions, and general shot asset management. Candidate is accountable for meeting schedules and show deadlines. Interacts with production, supervisors and team/ peers in order to problem solve and share information related to show/ assigned tasks. Must be able to decipher as well as follow through on work in progress, dailies, briefings/ notes and feedback. Successful candidates should be able to work efficiently as part of a team or independently to determine the various pipeline solutions.
+
+Qualifications:
+
+Strong knowledge of Maya and Python programming. Experience creating user interfaces with PyQt/ PySide. Knowledge of the Linux operating system. Understanding of the git version control system. Familiarity with Katana, Unreal, Houdini, and/ or USD is a plus. Most desired 2 year diploma or 1 year certificate however minimal requirement of 2-3 years of relevant experience may be accepted.
+
+The anticipated base salary for an Associate position is $26.44 to $36.32/hr and for an Intermediate position is $34.04 - 48.89/hr. Benefits are per company policy: which include healthcare, tuition reimbursement, RRSP's, Sick and Vacation leave, standard increases as applicable. The actual base salary offered will depend on a variety of factors, including without limitation, the qualifications of the individual applicant for the position, years of relevant experience, level of education attained, certifications or other professional licenses held, and if applicable, the location of the position.
+
+We value unique perspectives, and want diverse, unique talent to work with us. We encourage candidates from all identities to apply.
+
+*Sony Pictures Entertainment is an equal opportunity employer. We evaluate qualified applicants without regard to race, colour, religion, sex, national origin, disability, age, sexual orientation, gender identity, or other protected characteristics.
+
+Job Type: Full-time
+
+Pay: $26.44-$48.89 per hour
+
+Benefits:
+
+Extended health care
+Work Location: Hybrid remote in Vancouver, BC
