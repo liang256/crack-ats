@@ -7,6 +7,7 @@ crack-ats is an application designed to generate resumes that are optimized to b
 - Generate ATS-friendly resumes
 - Customize resume templates
 - Export resumes in various formats
+- Generate cover letter
 
 ## Installation
 
@@ -40,3 +41,7 @@ To use crack-ats, follow these steps:
     make pdf
     ```
 
+4. Generate cover letter based on given job description and `experience.json`:
+    ```bash
+    make cl /path/to/the/job-description
+    ```
