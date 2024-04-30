@@ -29,3 +29,6 @@ env/
 
 # Miscellaneous
 .DS_Store
+
+experience.json
+generated_resumes/
